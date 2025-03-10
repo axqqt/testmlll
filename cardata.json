@@ -1,0 +1,113 @@
+[
+    {
+      "Name": "chevrolet chevelle malibu",
+      "Miles_per_Gallon": 18,
+      "Cylinders": 8,
+      "Displacement": 307,
+      "Horsepower": 130,
+      "Weight_in_lbs": 3504,
+      "Acceleration": 12,
+      "Year": "1970-01-01",
+      "Origin": "USA"
+    },
+    {
+      "Name": "buick skylark 320",
+      "Miles_per_Gallon": 15,
+      "Cylinders": 8,
+      "Displacement": 350,
+      "Horsepower": 165,
+      "Weight_in_lbs": 3693,
+      "Acceleration": 11.5,
+      "Year": "1970-01-01",
+      "Origin": "USA"
+    },
+    {
+      "Name": "plymouth satellite",
+      "Miles_per_Gallon": 18,
+      "Cylinders": 8,
+      "Displacement": 318,
+      "Horsepower": 150,
+      "Weight_in_lbs": 3436,
+      "Acceleration": 11,
+      "Year": "1970-01-01",
+      "Origin": "USA"
+    },
+    {
+      "Name": "amc rebel sst",
+      "Miles_per_Gallon": 16,
+      "Cylinders": 8,
+      "Displacement": 304,
+      "Horsepower": 150,
+      "Weight_in_lbs": 3433,
+      "Acceleration": 12,
+      "Year": "1970-01-01",
+      "Origin": "USA"
+    },
+    {
+      "Name": "ford torino",
+      "Miles_per_Gallon": 17,
+      "Cylinders": 8,
+      "Displacement": 302,
+      "Horsepower": 140,
+      "Weight_in_lbs": 3449,
+      "Acceleration": 10.5,
+      "Year": "1970-01-01",
+      "Origin": "USA"
+    },
+    {
+      "Name": "ford mustang",
+      "Miles_per_Gallon": 22,
+      "Cylinders": 4,
+      "Displacement": 140,
+      "Horsepower": 95,
+      "Weight_in_lbs": 2890,
+      "Acceleration": 15,
+      "Year": "1970-01-01",
+      "Origin": "USA"
+    },
+    {
+      "Name": "chevrolet monte carlo",
+      "Miles_per_Gallon": 15,
+      "Cylinders": 8,
+      "Displacement": 350,
+      "Horsepower": 230,
+      "Weight_in_lbs": 3900,
+      "Acceleration": 10.1,
+      "Year": "1970-01-01",
+      "Origin": "USA"
+    },
+    {
+      "Name": "pontiac firebird",
+      "Miles_per_Gallon": 18,
+      "Cylinders": 8,
+      "Displacement": 400,
+      "Horsepower": 175,
+      "Weight_in_lbs": 4200,
+      "Acceleration": 11,
+      "Year": "1970-01-01",
+      "Origin": "USA"
+    },
+    {
+      "Name": "chevrolet camaro",
+      "Miles_per_Gallon": 20,
+      "Cylinders": 6,
+      "Displacement": 250,
+      "Horsepower": 100,
+      "Weight_in_lbs": 3300,
+      "Acceleration": 13,
+      "Year": "1970-01-01",
+      "Origin": "USA"
+    },
+    {
+      "Name": "mercedes-benz 280sl",
+      "Miles_per_Gallon": 20,
+      "Cylinders": 6,
+      "Displacement": 280,
+      "Horsepower": 120,
+      "Weight_in_lbs": 3000,
+      "Acceleration": 12.5,
+      "Year": "1970-01-01",
+      "Origin": "Germany"
+    }
+  ]
+  
